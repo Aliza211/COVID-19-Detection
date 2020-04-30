@@ -8,8 +8,11 @@ This is a standard Convolutional neural network model for detecting covid-19 fro
 
 ## Datasets:
 
- Datasets are collected from several sources. Two categories of data were collected for training and testing:x-ray and CT-Scan. X-ray non covid(normal and pneumonia) data were garnered through kaggle whereas X-ray covid-19 datasets are extracted from the github open source. CT-Scan datasets,whereas,both covid as well non covid, were fetched from github open source.
+ Datasets are collected from several sources. Two categories of data were collected for training and testing:x-ray and CT-Scan. X-ray non covid(normal and pneumonia) data were gathered through kaggle whereas X-ray covid-19 datasets are extracted from the github open source. CT-Scan datasets ,both covid as well non covid were fetched from github open source.
   
+   Non-covid image        |      covid image
+:-------------------------:|:-------------------------:
+![](https://github.com/Aliza211/COVID-19-Detector/blob/master/data/non_covid_xray/14.jpeg) |  ![](https://github.com/Aliza211/COVID-19-Detector/blob/master/data/covid_xray/5_preprocessed.png)
 
 
          
@@ -21,7 +24,7 @@ This is a standard Convolutional neural network model for detecting covid-19 fro
 
  Several standard models like VGG16,ResNet50,InceptionV3 have been implemented for transfer learning.Among them, VGG-16 gave the best result. Due to some limitation of data (Noise and small) different methods have to be followed.  
 
-At first, X-ray data was trained in a standard pretrained model by freezing some layers.Almost 97% percent training accuracy and 98% of validation accuracy was achieved.After that CT scans-data was also trained on the pretrained model of x rays.
+At first, X-ray data was trained in a standard pretrained model by freezing some layers.Almost 99% percent training accuracy and 98% of validation accuracy was achieved.After that CT scans-data was also trained on the pretrained model of x rays.
 
 ## Result:
 
