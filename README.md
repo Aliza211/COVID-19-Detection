@@ -24,7 +24,7 @@ This is a standard Convolutional neural network model for detecting covid-19 fro
 
  Several standard models like VGG16,ResNet50,InceptionV3 have been implemented for transfer learning.Among them, VGG-16 gave the best result. Due to some limitation of data (Noise and small) different methods have to be followed.  
 
-At first, X-ray data was trained in a standard pretrained model by freezing some layers.Almost 99% percent training accuracy and 98% of validation accuracy was achieved.After that CT scans-data was also trained on the pretrained model of x rays.
+At first, X-ray data was trained in a standard pretrained model by freezing some layers.Almost 99% percent training accuracy and 98% of validation accuracy was achieved.After that CT-scan datas are also trained on the pretrained model of x rays.
 
 ## Result:
 
