@@ -4,7 +4,7 @@
  
 Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).The disease was first identified in December 2019 in Wuhan, the capital of China's Hubei province, and has since spread globally, resulting in the ongoing 2019–20 coronavirus pandemic.About 3 million people have been suffering from this pandemic .Among several ways for detection, I tried two approaches using X-ray and CT-scan. I suppose using them  is a faster, easier and less harmful method than others.Lungs of those patients(infected from Covid) were  presented with patchy ground glass opacities(GGO),crazy paving appearances and air space consolidation.
 
-This is a standard Convolutional neural network model for detecting covid-19 from X-ray and CT-scan.
+This is a standard Convolutional neural network model for detecting covid-19 from X-ray.
 
 ## Datasets:
 
