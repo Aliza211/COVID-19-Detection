@@ -38,7 +38,7 @@ At first, X-ray data was trained in a standard pretrained model by freezing some
 
 
 model can be downloaded from:
-https://drive.google.com/open?id=1VBgyJiurgMJCYz7AhCVhalZnP5XijulQ
+https://drive.google.com/file/d/1VBgyJiurgMJCYz7AhCVhalZnP5XijulQ/view?usp=sharing
 
 ## Further work:
 The model for CT-scan is still to be improved.The models can be further improved after availability of more covid-19 positive x-ray and CT-scans images.
