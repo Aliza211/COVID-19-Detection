@@ -37,7 +37,8 @@ At first, X-ray data was trained in a standard pretrained model by freezing some
 ![](https://github.com/Aliza211/COVID-19-Detector/blob/master/images/Screenshot%20from%202020-04-29%2020-47-54.png)
 
 
-
+model can be downloaded from:
+https://drive.google.com/open?id=1VBgyJiurgMJCYz7AhCVhalZnP5XijulQ
 
 ## Further work:
 The model for CT-scan is still to be improved.The models can be further improved after availability of more covid-19 positive x-ray and CT-scans images.
