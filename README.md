@@ -1,5 +1,5 @@
 # COVID-19-Detection
-## Detection of COVID-19 From X-ray images Using Deep Convolutional Neural Network(CNN).
+ Detection of COVID-19 From X-ray images Using Deep Convolutional Neural Network(CNN).
 
 ## Introduction:
  
